@@ -1,0 +1,11 @@
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\bin\Debug\BrowserCsharp.exe.config
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\bin\Debug\BrowserCsharp.exe
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\bin\Debug\BrowserCsharp.pdb
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\obj\Debug\BrowserCsharp.csproj.AssemblyReference.cache
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\obj\Debug\BrowserCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\obj\Debug\BrowserCsharp.Form1.resources
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\obj\Debug\BrowserCsharp.Properties.Resources.resources
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\obj\Debug\BrowserCsharp.csproj.GenerateResource.cache
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\obj\Debug\BrowserCsharp.csproj.CoreCompileInputs.cache
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\obj\Debug\BrowserCsharp.exe
+C:\Users\v-saliyev\source\repos\BrowserCsharp\BrowserCsharp\obj\Debug\BrowserCsharp.pdb
